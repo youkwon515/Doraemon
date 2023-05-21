@@ -1,0 +1,33 @@
+.head {
+    .face {
+        .mouth {
+            display: flex; 
+            flex-direction: column; 
+            width: 300px; 
+            height: 90px; 
+            position: absolute; 
+            top: 72px;
+            .philtrum {
+                width: 1px; 
+                height: 80px; 
+                background-color: black; 
+                position: absolute; 
+                top: 40px; 
+                left: 50%; 
+                transform: translate(-50%, -50%);
+            }
+            .lips {
+                position: absolute; 
+                bottom: 0; 
+                width: 180px; 
+                height: 75px; 
+                border-bottom: 1.5px solid black; 
+                top: 42px; 
+                left: 50%; 
+                border-radius: 100%; 
+                transform: translate(-50%, -50%);
+
+            }
+        }
+    }
+}
