@@ -3,4 +3,4 @@
 ## SCSS Compile
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="500" height="300">
 
-> `npx sass --watch <scss file> <css file>`
+> `npx sass --watch <scss file> <css file>` <br>
